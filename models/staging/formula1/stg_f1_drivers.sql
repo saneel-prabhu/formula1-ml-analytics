@@ -20,4 +20,4 @@ renamed as (
     from source
 )
 
-select * from renameds
+select * from renamed
